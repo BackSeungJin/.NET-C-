@@ -1,0 +1,15 @@
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\View\MainWindow.g.cs
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\App.g.cs
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.exe
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.pdb
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\bin\Debug\MVVM.exe.config
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\bin\Debug\MVVM.exe
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\View\MainWindow.baml
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.g.resources
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+C:\gitSource\DOTNET\.NET-Project\WPF\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
